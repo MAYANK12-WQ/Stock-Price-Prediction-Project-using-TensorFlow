@@ -185,3 +185,15 @@ git commit -m "Initial commit: Stock Price Prediction Project"
 git branch -M main
 git remote add origin https://github.com/yourusername/your-repo-name.git
 git push -u origin main
+
+---
+
+### **3️⃣ `data/` Directory (Dataset Storage)**
+If you don’t have a dataset yet, create a placeholder CSV file:
+
+**`data/stock_data.csv`**
+```plaintext
+Date,Open,High,Low,Close,Volume
+2023-01-01,100,105,99,104,1000000
+2023-01-02,104,108,102,107,1200000
+# Add more stock price data...
