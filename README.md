@@ -15,3 +15,29 @@ This project aims to predict stock prices using TensorFlow-based neural networks
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+ Commit and Push to GitHub
+
+Add, commit, and push your files to the GitHub repository:
+
+bash
+Copy
+Edit
+# Add all files
+git add .
+
+# Commit changes
+git commit -m "Initial commit: Added stock price prediction project files"
+
+# Add remote repository
+git remote add origin https://github.com/yourusername/your-repo-name.git
+
+# Push to GitHub
+git
+::contentReference[oaicite:0]{index=0}
+ 
+
+
+
+
+
+
