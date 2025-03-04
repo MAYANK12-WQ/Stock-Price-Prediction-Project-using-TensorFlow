@@ -188,7 +188,7 @@ git push -u origin main
 
 ---
 
-### **3️⃣ `data/` Directory (Dataset Storage)**
+### ** data/` Directory (Dataset Storage)**
 If you don’t have a dataset yet, create a placeholder CSV file:
 
 **`data/stock_data.csv`**
